@@ -204,26 +204,8 @@ Beberapa ketentuan bisnis yang diterapkan dalam perancangan sistem:
 - Pemeriksaan identitas dilakukan oleh admin ketika pengambilan barang.
 - Denda keterlambatan dirancang sebesar Rp10.000 per unit per jam, dengan pembulatan ke atas untuk keterlambatan sebagian jam.
 
-## 10. Status Pengembangan
 
-Pengembangan sistem dilakukan secara bertahap.
-
-| Modul | Status |
-|---|---|
-| Koneksi database | Sudah dibuat |
-| Autentikasi dan session | Sudah dibuat |
-| Registrasi pengguna | Sudah dibuat |
-| Login pengguna | Sudah dibuat |
-| Logout pengguna | Sudah dibuat |
-| Dashboard admin | Dalam pengembangan |
-| Dashboard penyewa | Dalam pengembangan |
-| Pengelolaan barang | Belum selesai |
-| Pengelolaan kategori | Belum selesai |
-| Pengelolaan pesanan | Belum selesai |
-| Pembayaran dan verifikasi | Belum selesai |
-| Pengambilan dan pengembalian | Belum selesai |
-
-## 11. Pengembang
+## 10. Pengembang
 
 **Proyek:** Ranaya Outdoor  
 **Jenis Aplikasi:** Sistem Informasi Penyewaan Perlengkapan Outdoor  
